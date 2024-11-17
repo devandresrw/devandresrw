@@ -13,9 +13,9 @@ I am a developer, I plan, develop and bring to production applications focused o
 ### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
 
 
-### development environment
+### 💻 development environment
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,npm,blender,bash,docker,kubernetes,figma,gcp,kali,linux,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,npm,blender,bash,docker,kubernetes,figma,gcp,kali,linux,vscode&perline=4)](https://skillicons.dev)
 
 
 ### Dev training
