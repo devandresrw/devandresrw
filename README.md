@@ -83,11 +83,53 @@
 ## Hi u͍̺͚̅̀̚sͨ̿̽é͓̻̓r̄ṡ͈ 👋
 
 ### 💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,less,sass,tailwind,bootstrap,npm,nextjs,react,emotion,p5js,threejs,d3,processing,selenium&perline=4)](https://skillicons.dev)
+
 
 ### 📚 Collection r͎̫̜̦ͅeͯͩp̫͔̼̜̙ͩͦ̇̋̽ỏ̘͖̽si͍̅t̅̔̃͌ͦ̚ő̮̺͔̪̺̲̖͑̉̐͒̄̍rͩ̒̀ͣ̌̚i̜̩̞͙͗͆ͬ̉eͮͭ̑s̞͖͉̮͊͑͊̾:͈̻̱͉͍͈ ͕̓͗ͅ
 
 ### 💡 Backend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
+     </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+     </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
+     </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,mongodb,mysql,postgres,sqlite,prisma,apollo,postman,jest&perline=4)](https://skillicons.dev)
 
