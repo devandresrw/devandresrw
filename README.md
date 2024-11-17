@@ -1,7 +1,12 @@
 <div style="text-align: center;">
-  <img src="/a-blanca.svg" width="100" alt="a">
+  
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="/a-blanca.svg" width="100" alt="a">
+  </a>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
