@@ -3,11 +3,12 @@ I am a developer, I plan, develop and bring to production applications focused o
 
 ### 💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,less,sass,tailwind,bootstrap,npm,nextjs,react,emotion,p5js,threejs,d3,processing&perline=4)](https://skillicons.dev)
+
 ### 📚 Collection r͎̫̜̦ͅeͯͩp̫͔̼̜̙ͩͦ̇̋̽ỏ̘͖̽si͍̅t̅̔̃͌ͦ̚ő̮̺͔̪̺̲̖͑̉̐͒̄̍rͩ̒̀ͣ̌̚i̜̩̞͙͗͆ͬ̉eͮͭ̑s̞͖͉̮͊͑͊̾:͈̻̱͉͍͈ ͕̓͗ͅ
 
 ### 💡 Backend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,postman,apollo,jest,graphql,express,postgres,sqlite,selenium&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs,postman,apollo,jest,graphql,postgres,sqlite,selenium&perline=4)](https://skillicons.dev)
 
 ### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
 
