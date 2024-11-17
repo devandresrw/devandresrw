@@ -5,9 +5,20 @@ I am a developer, I plan, develop and bring to production applications focused o
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ### 📚 Collection r͎̫̜̦ͅeͯͩp̫͔̼̜̙ͩͦ̇̋̽ỏ̘͖̽si͍̅t̅̔̃͌ͦ̚ő̮̺͔̪̺̲̖͑̉̐͒̄̍rͩ̒̀ͣ̌̚i̜̩̞͙͗͆ͬ̉eͮͭ̑s̞͖͉̮͊͑͊̾:͈̻̱͉͍͈ ͕̓͗ͅ
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ### 💡 Backend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
+### development environment
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
+### Dev training
 
