@@ -29,6 +29,51 @@
      </a>
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=less" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+     </a>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=emotion" />
+     </a>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" />
+     </a>
+  </a>
+</p>
 
 ## Hi u͍̺͚̅̀̚sͨ̿̽é͓̻̓r̄ṡ͈ 👋
 
