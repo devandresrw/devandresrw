@@ -2,10 +2,7 @@
  🔭 I will write this soon, I migrated from github...
 
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-
-
+| ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) | ![Three.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg) |
+|:---:|:---:|:---:|:---:|
+| **TypeScript** | **React** | **Next.js** | **Three.js** |
 
