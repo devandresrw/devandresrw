@@ -15,7 +15,7 @@ I am a developer, I plan, develop and bring to production applications focused o
 
 ### 💻 development environment
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,vscode,figma,blender,npm,bash,vercel,gcp,docker,kubernetes,kali,linux,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,vscode,figma,blender,npm,bash,vercel,gcp,vite,kali,linux,docker,kubernetes&perline=5)](https://skillicons.dev)
 
 
 ### Dev training
