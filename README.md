@@ -118,16 +118,16 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=prisma" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=apollo" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql" />
+    <img src="https://skillicons.dev/icons?i=postman" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs" />
+    <img src="https://skillicons.dev/icons?i=jest" />
      </a>
 </p>
 
