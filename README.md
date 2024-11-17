@@ -61,18 +61,23 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=p5js" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=d3" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=processing" />
      </a>
   </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium" />
+     </a>
 </p>
 
 ## Hi u͍̺͚̅̀̚sͨ̿̽é͓̻̓r̄ṡ͈ 👋
