@@ -131,13 +131,45 @@
      </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,mongodb,mysql,postgres,sqlite,prisma,apollo,postman,jest&perline=4)](https://skillicons.dev)
 
 ### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
 
 
 ### 💻 development environment
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+     </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite" />
+     </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,vscode,figma,blender,npm,bash,vercel,gcp,vite,kali,linux,docker,kubernetes&perline=5)](https://skillicons.dev)
 
 
