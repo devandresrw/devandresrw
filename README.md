@@ -17,7 +17,7 @@ I am a developer, I plan, develop and bring to production applications focused o
 
 ### development environment
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
 
 
 ### Dev training
