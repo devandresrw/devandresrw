@@ -1,9 +1,5 @@
-### Hi there 👋
- 🔭 I will write this soon, I migrated from github...
-
-| ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) | ![Three.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg) |
-|:---:|:---:|:---:|:---:|
-| **TypeScript** | **React** | **Next.js** | **Three.js** |
+## Hi u͍̺͚̅̀̚sͨ̿̽é͓̻̓r̄ṡ͈ 👋
+I am a developer, I plan, develop and bring to production applications focused on the web, a taste for creative development and new technologies. He worked in different areas of the market, from advertising agencies, non-profit organizations, crypto and artistic projects.
 
 
 
