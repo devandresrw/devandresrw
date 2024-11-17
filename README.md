@@ -8,7 +8,7 @@ I am a developer, I plan, develop and bring to production applications focused o
 
 ### 💡 Backend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs,postman,apollo,jest,graphql,postgres,sqlite,selenium&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,prisma,postman,apollo,jest,postgres,sqlite,selenium&perline=4)](https://skillicons.dev)
 
 ### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
 
