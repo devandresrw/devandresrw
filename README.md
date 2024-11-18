@@ -140,12 +140,15 @@
     <img src="https://skillicons.dev/icons?i=jest" />
      </a>
 </p>
+<p align="center" font-size="30px">
+  <b>📚 💡 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ💡📚 </b>
+</p>
 
 
-### 📚 Collection r͚̈́epò̩̫̯͛̀s͖i̼͇t̉ͨ̊o̪̼̩ͧ́̌rie̬ͩs:̦̲̲ ̿ͦͩ
+<p align="center" font-size="30px">
+  <b>📚 💡 💻 development environment 💡📚 </b>
+</p>
 
-
-### 💻 development environment
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=obsidian" />
