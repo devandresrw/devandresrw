@@ -10,14 +10,17 @@
 <p align="center">
     #Web developer | #HxC | #Creative dev
 </p>
+<br>
 <p align="center" bold>
     I am a developer, I plan, develop and bring to production applications focused on the web, a taste for ✨creative development🎨 and new technologies. He worked in different areas of the markets, from advertising agencies, non-profit organizations, crypto and artistic projects. I have an interest in augmented reality and virtual reality, currently I am seeking to get certified in the technologies that I master, step by step one by one and complete my learning paths in HxB.
 </p>
 </hr>
-<p align="center">
-  <b>💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b>
-    
+<br>
+<br>
+<p align="center" font-size="30px">
+  <h2><b>💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b></h2>
 </p>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts" />
