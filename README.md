@@ -14,9 +14,10 @@
     I am a developer, I plan, develop and bring to production applications focused on the web, a taste for ✨creative development🎨 and new technologies. He worked in different areas of the markets, from advertising agencies, non-profit organizations, crypto and artistic projects. I have an interest in augmented reality and virtual reality, currently I am seeking to get certified in the technologies that I master, step by step one by one and complete my learning paths in HxB.
 </p>
 </hr>
-<p aling="center">
-  <h3> 💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b></h3>
-</p>
+<div style="text-align: center;">
+    <h3><b>💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b></h3>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts" />
@@ -171,11 +172,10 @@
     <img src="https://skillicons.dev/icons?i=vite" />
      </a>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=obsidian,neovim,vscode,figma,blender,npm,bash,vercel,gcp,vite,kali,linux,docker,kubernetes&perline=5)](https://skillicons.dev)
 
 
 ### Dev training
 ### Social media
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter&perline=5)](https://skillicons.dev)
-
-
