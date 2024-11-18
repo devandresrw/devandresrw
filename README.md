@@ -28,20 +28,7 @@
     <img src="https://skillicons.dev/icons?i=css" />
      </a>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=less" />
-     </a>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=less" />
-     </a>
-       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass" />
-     </a>
-  <a href="https://skillicons.dev">
-
-</p>
-//Segunda linea de frontend
-<p align="center">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=less" />
      </a>
@@ -55,6 +42,11 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
      </a>
   </a>
+
+</p>
+//Segunda linea de frontend
+<p align="center">
+  
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
