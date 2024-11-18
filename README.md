@@ -59,10 +59,13 @@
     <img src="https://skillicons.dev/icons?i=nextjs" />
      </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=emotion" />
      </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=emotion" />
+     </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=threejs" />
      </a>
   </a>
 </p>
