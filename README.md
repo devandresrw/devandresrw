@@ -61,13 +61,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=emotion" />
      </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emotion" />
-     </a>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs" />
      </a>
   </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=processing" />
+     </a>
+   
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
