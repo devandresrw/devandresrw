@@ -17,7 +17,10 @@
 <div style="text-align: center;">
     <h3><b>💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b></h3>
 </div>
-
+<p align="center">
+  💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡
+    #Web developer | #HxC | #Creative dev
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts" />
