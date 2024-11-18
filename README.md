@@ -28,20 +28,23 @@
     <img src="https://skillicons.dev/icons?i=css" />
      </a>
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+     </a>
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass" />
+     </a>
+  </a>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=less" />
      </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass" />
-     </a>
+ 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" />
      </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-     </a>
-  </a>
+  
+    
 
 </p>
 //Segunda linea de frontend
