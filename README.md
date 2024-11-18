@@ -68,6 +68,9 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=processing" />
      </a>
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=d3" />
+     </a>
    
 </p>
 <p align="center">
@@ -77,9 +80,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs" />
      </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=d3" />
-     </a>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=processing" />
      </a>
