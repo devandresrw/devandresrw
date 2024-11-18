@@ -168,6 +168,9 @@
     <img src="https://skillicons.dev/icons?i=npm" />
      </a>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite" />
+     </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash" />
      </a>
   <a href="https://skillicons.dev">
@@ -176,8 +179,19 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp" />
      </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
      </a>
 </p>
 
