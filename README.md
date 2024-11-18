@@ -43,17 +43,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" />
      </a>
-  
-    
-
 </p>
 //Segunda linea de frontend
 <p align="center">
-  
-</p>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite" />
      </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" />
