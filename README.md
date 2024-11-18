@@ -197,8 +197,23 @@
     <img src="https://skillicons.dev/icons?i=kubernetes" />
      </a>
 </p>
-
-
-### Dev training
-### Social media
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter&perline=5)](https://skillicons.dev)
+<p align="center" font-size="30px">
+  <b>📚 💡 💻 Dev training 💡📚 </b>
+</p>
+<p align="center" font-size="30px">
+  <b>📚 💡 💻 Other projects  💡📚 </b>
+</p>
+<p align="center" font-size="30px">
+  <b>📚 💡 💻 Website portfolio 💡📚 </b>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+     </a>
+</p>
