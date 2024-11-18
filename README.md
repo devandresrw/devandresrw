@@ -86,13 +86,18 @@
     <img src="https://skillicons.dev/icons?i=selenium" />
      </a>
 </p>
+<br>
 
+<p align="center" font-size="30px">
+  <b>📚 💡 C o l l e c t i o n - Ṙ̲̳̤̼̩̅͌͛ͭ e̒͠ p̼̮̟ͩ̃ͣ o s̯͔̯̱̘͇̗͛̍̋̄̏͂̃ i̥̱̬̝͙̙͆͊̂̍ͪ̆ t̥ͣ͟ ô r i̬̟̘ e̗̥̝̝̱̖̾̏̓͋ͨ̓̚ͅ s͈͇͕͓ͅ 💡📚 </b>
+</p>
+<br>
+<br>
+### 📚📚 📚📚📚
 
-
-
-### 📚 Collection r͎̫̜̦ͅeͯͩp̫͔̼̜̙ͩͦ̇̋̽ỏ̘͖̽si͍̅t̅̔̃͌ͦ̚ő̮̺͔̪̺̲̖͑̉̐͒̄̍rͩ̒̀ͣ̌̚i̜̩̞͙͗͆ͬ̉eͮͭ̑s̞͖͉̮͊͑͊̾:͈̻̱͉͍͈ ͕̓͗ͅ
-
-### 💡 Backend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
+<p align="center" font-size="30px">
+  <b>📚 💡 Backend - t e̖ͦ c̥̍ hͦͨ n͚̂ o ľ o g̫̫ͮ̚ i e͆̋ s :̪̞͋̓ 💡📚 </b>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
