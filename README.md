@@ -13,7 +13,10 @@
 <p align="center" bold>
     I am a developer, I plan, develop and bring to production applications focused on the web, a taste for ✨creative development🎨 and new technologies. He worked in different areas of the markets, from advertising agencies, non-profit organizations, crypto and artistic projects. I have an interest in augmented reality and virtual reality, currently I am seeking to get certified in the technologies that I master, step by step one by one and complete my learning paths in HxB.
 </p>
-
+</hr>
+<p aling="center">
+  <h3> 💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓ 💡</b></h3>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts" />
@@ -44,7 +47,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind" />
      </a>
 </p>
-//Segunda linea de frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm" />
@@ -71,7 +73,6 @@
        <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=d3" />
      </a>
-   
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -81,13 +82,8 @@
     <img src="https://skillicons.dev/icons?i=selenium" />
      </a>
 </p>
-<p align="center">
-  
-</p>
 
-## Hi u͍̺͚̅̀̚sͨ̿̽é͓̻̓r̄ṡ͈ 👋
 
-### 💡 Frontend te̖ͦc̥̍hͦͨn͚̂oľog̫̫ͮ̚ie͆̋s:̪̞͋̓
 
 
 ### 📚 Collection r͎̫̜̦ͅeͯͩp̫͔̼̜̙ͩͦ̇̋̽ỏ̘͖̽si͍̅t̅̔̃͌ͦ̚ő̮̺͔̪̺̲̖͑̉̐͒̄̍rͩ̒̀ͣ̌̚i̜̩̞͙͗͆ͬ̉eͮͭ̑s̞͖͉̮͊͑͊̾:͈̻̱͉͍͈ ͕̓͗ͅ
