@@ -22,35 +22,32 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
-     </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
-     </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
-     </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
-     </a>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-     </a>
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass" />
-     </a>
-  </a>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=less" />
-     </a>
- 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-     </a>
-</p>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="./tecnologias/frontend/typescript.svg" height="40" width="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="./tecnologias/frontend/js.svg" height="40" width="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="./tecnologias/frontend/html5.svg" height="40" width="40" />
+        </a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+            <img src="./tecnologias/frontend/css3.svg" height="40" width="40" />
+        </a>
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="./tecnologias/frontend/boostrap.svg" height="45" width="45" />
+        </a>
+        <a href="https://sass-lang.com/" target="_blank">
+            <img src="./tecnologias/frontend/sass.svg" height="48" width="48" />
+        </a>
+        <a href="https://lesscss.org/" target="_blank">
+            <img src="./tecnologias/frontend/less.svg" height="48" width="48" />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+            <img src="./tecnologias/frontend/tailwind.svg" height="48" width="48" />
+        </a>
+    </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm" />
