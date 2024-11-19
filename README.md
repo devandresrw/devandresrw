@@ -1,7 +1,5 @@
 <div style="text-align: center;">
 
-
-  
 </div>
 
 <p align="center">
