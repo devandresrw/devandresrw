@@ -189,7 +189,7 @@
         <tr>
             <td>
                 <p align="center" font-size="30px">
-                   <b> 📚 repositories backend </b>
+                   <b> 📚 tools </b>
                 </p>
             </td>
         </tr>
@@ -197,20 +197,44 @@
         <td>
                     <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=ts"  />
+            <img src="https://skillicons.dev/icons?i=bash"  />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://skillicons.dev/icons?i=js" />
+            <img src="https://skillicons.dev/icons?i=blender" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-            <img src="https://skillicons.dev/icons?i=html"  />
+            <img src="https://skillicons.dev/icons?i=docker"  />
         </a>
         <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-            <img src="https://skillicons.dev/icons?i=css"  />
+            <img src="https://skillicons.dev/icons?i=figma"  />
         </a>
         </a>
         <a href="https://getbootstrap.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=bootstrap" />
+            <img src="https://skillicons.dev/icons?i=gcp" />
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=git" />
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=kali" />
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=kubernetes" />
+        </a>
+        </p>
+        <p align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linux"  />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://skillicons.dev/icons?i=obsidian" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="https://skillicons.dev/icons?i=vscode"  />
+        </a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+            <img src="https://skillicons.dev/icons?i=neovim"  />
+        </a>
         </a>
         </p>
             </td>
