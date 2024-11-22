@@ -17,22 +17,18 @@
         my
         learning paths in HxB.
     </p>
-
+<br>
+<br>
 <table align="center">
         <tr>
             <td>
-                    <br>
                 <p align="center" font-size="30px">
-                    <b>💡 F r o n t e n d - T͎̺̖͓̤̦̪̰͉̐ͦ̽̎̿̊́ͩ̌ e c͙̹̭̯̮̰̮͍̖̫̠̰͈̜̆̒͂ͧͧ͗͑̀̀̌̏̔̈́ͧ ḧ̙̞̭̼͍̞̹̻́̐͗͂̏ͬ̌̎ n̓̈́
-                        o̜̤̹͈͙͇̯͉̹͍̙̩̮ l̮̤̗̅̋̆ o̫̠̟̜̺̲̦̺͔̤̘̅̈̇̓ͩ̈ͣ̀͗̃͂ͮͪͅͅ g̟̜̹̖̻̖͎̬͉̮͎͍͍̳̖ í̘̺ͨ
-                        e̠̘͓̲̹̠͕̣̫͎̔ͯ̏ͧ̈́ͤͪ̈̄̾̚ͅ
-                        ŝ͉💡</b>
+                    <b>💡 F r o n t e n d 💡</b>
                 </p>
-                    <br>
             </td>
             <td>
                 <p align="center" font-size="30px">
-                    <b>📚 💡 Backend - t e̖ͦ c̥̍ hͦͨ n͚̂ o ľ o g̫̫ͮ̚ i e͆̋ s :̪̞͋̓ 💡📚 </b>
+                    <b>💡 B a c k e n d 💡</b>
                 </p>
             </td>
         </tr>
@@ -55,7 +51,8 @@
         <a href="https://getbootstrap.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=bootstrap" />
         </a>
-        <a href="https://sass-lang.com/" target="_blank">
+       <p align="center">
+               <a href="https://sass-lang.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=sass"  />
         </a>
         <a href="https://lesscss.org/" target="_blank">
@@ -64,14 +61,15 @@
         <a href="https://tailwindcss.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=tailwind" />
         </a>
-    </p>
-        <p align="center">
-        <a href="https://skillicons.dev">
+               <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=npm" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vite" />
         </a>
+       </p> 
+    </p>
+        <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=react" />
         </a>
@@ -84,15 +82,14 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=threejs" />
         </a>
-        </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=processing" />
-        </a>
-        <a href="https://skillicons.dev">
+                <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=d3" />
         </a>
     </p>
         <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=processing" />
+        </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=p5js" />
         </a>
@@ -144,6 +141,30 @@
             <img src="https://skillicons.dev/icons?i=jest" />
         </a>
     </p>
+            </td>
+        </tr>
+    </table>
+--
+
+<table align="center">
+        <tr>
+            <td>
+                <p align="center" font-size="30px">
+                    <b> 📚 repositories frontend </b>
+                </p>
+            </td>
+            <td>
+                <p align="center" font-size="30px">
+                   <b> 📚 repositories backend </b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    a
+            </td>
+                <td>
+                        b
             </td>
         </tr>
     </table>
