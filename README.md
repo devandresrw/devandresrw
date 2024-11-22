@@ -17,16 +17,32 @@
         <tr>
             <td>
                 <p align="center">
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=instagram" />
-                    </a>
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=linkedin" />
-                    </a>
-                    <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=twitter" />
-                    </a>
-                </p>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=ts"  />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="https://skillicons.dev/icons?i=html"  />
+        </a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+            <img src="https://skillicons.dev/icons?i=css"  />
+        </a>
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </a>
+        <a href="https://sass-lang.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=sass"  />
+        </a>
+        <a href="https://lesscss.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=less"  />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=tailwind" />
+        </a>
+    </p>
             </td>
             <td>
                 <p align="center">
