@@ -1,12 +1,14 @@
 <table align="center">
         <tr>
             <td>
+                    <br>
                 <p align="center" font-size="30px">
                     <b>💡 F r o n t e n d - T͎̺̖͓̤̦̪̰͉̐ͦ̽̎̿̊́ͩ̌ e c͙̹̭̯̮̰̮͍̖̫̠̰͈̜̆̒͂ͧͧ͗͑̀̀̌̏̔̈́ͧ ḧ̙̞̭̼͍̞̹̻́̐͗͂̏ͬ̌̎ n̓̈́
                         o̜̤̹͈͙͇̯͉̹͍̙̩̮ l̮̤̗̅̋̆ o̫̠̟̜̺̲̦̺͔̤̘̅̈̇̓ͩ̈ͣ̀͗̃͂ͮͪͅͅ g̟̜̹̖̻̖͎̬͉̮͎͍͍̳̖ í̘̺ͨ
                         e̠̘͓̲̹̠͕̣̫͎̔ͯ̏ͧ̈́ͤͪ̈̄̾̚ͅ
                         ŝ͉💡</b>
                 </p>
+                    <br>
             </td>
             <td>
                 <p align="center" font-size="30px">
@@ -43,6 +45,41 @@
             <img src="https://skillicons.dev/icons?i=tailwind" />
         </a>
     </p>
+        <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=npm" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vite" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+                <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nextjs" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=emotion" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=threejs" />
+        </a>
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=processing" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=d3" />
+        </a>
+    </p>
+        <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=p5js" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=selenium" />
+        </a>
+    </p>
             </td>
             <td>
                 <p align="center">
@@ -59,6 +96,34 @@
                         <img src="https://skillicons.dev/icons?i=nestjs" />
                     </a>
                 </p>
+                    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=sqlite" />
+        </a>
+    </p>
+                    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=prisma" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=apollo" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postman" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=jest" />
+        </a>
+    </p>
             </td>
         </tr>
     </table>
