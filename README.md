@@ -221,6 +221,9 @@
 </p>
 <p align="center">
         <a href="https://programmer.andresrw.com/">
-                <img src="./a-blanca.svg">
+                <img src="./a-blanca.svg" height="40" width="40">
         </a>
+</p>
+<p align="center">
+        056c32e64a3ef8e8d770033e2688f616
 </p>
