@@ -219,25 +219,39 @@
 
 
 ---------------
-<table style="width: 100%;">
+<p align="center">
+<table align="center">
   <tr>
-    <td style="background-color: #f4f4f4; padding: 20px; text-align: center;">
-      <h3>Columna 1, Fila 1</h3>
-      <p>Texto aquí.</p>
+    <td>
+      <p align="center" font-size="30px">
+  <b>💡 F r o n t e n d - T͎̺̖͓̤̦̪̰͉̐ͦ̽̎̿̊́ͩ̌ e c͙̹̭̯̮̰̮͍̖̫̠̰͈̜̆̒͂ͧͧ͗͑̀̀̌̏̔̈́ͧ ḧ̙̞̭̼͍̞̹̻́̐͗͂̏ͬ̌̎ n̓̈́ o̜̤̹͈͙͇̯͉̹͍̙̩̮ l̮̤̗̅̋̆ o̫̠̟̜̺̲̦̺͔̤̘̅̈̇̓ͩ̈ͣ̀͗̃͂ͮͪͅͅ g̟̜̹̖̻̖͎̬͉̮͎͍͍̳̖ í̘̺ͨ e̠̘͓̲̹̠͕̣̫͎̔ͯ̏ͧ̈́ͤͪ̈̄̾̚ͅ ŝ͉💡</b>
+</p>
     </td>
-    <td style="background-color: #eaeaea; padding: 20px; text-align: center;">
-      <h3>Columna 2, Fila 1</h3>
-      <p>Texto aquí.</p>
+    <td>
+      <p align="center" font-size="30px">
+  <b>📚 💡 Backend - t e̖ͦ c̥̍ hͦͨ n͚̂ o ľ o g̫̫ͮ̚ i e͆̋ s :̪̞͋̓ 💡📚 </b>
+</p>
     </td>
   </tr>
   <tr>
-    <td style="background-color: #d4d4d4; padding: 20px; text-align: center;">
-      <h3>Columna 1, Fila 2</h3>
-      <p>Texto aquí.</p>
+    <td >
+       <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+     </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+     </a>
+</p>
     </td>
-    <td style="background-color: #ccc; padding: 20px; text-align: center;">
+    <td>
       <h3>Columna 2, Fila 2</h3>
       <p>Texto aquí.</p>
     </td>
   </tr>
 </table>
+  
+</p>
