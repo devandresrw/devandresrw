@@ -216,3 +216,11 @@
                 <img src="./dojos/hackthebox.svg" height="40" width="40" />
         </a>
 </p>
+<p align="center">
+       <b>✨🧠✨ Remember to visit my portfolio or any of my other projects ✨🫀✨</b>
+</p>
+<p align="center">
+        <a href="https://programmer.andresrw.com/">
+                <img src="./a-blanca.svg">
+        </a>
+</p>
