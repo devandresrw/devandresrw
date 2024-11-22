@@ -131,21 +131,25 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=prisma" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev" target="_blank">
             <img src="https://skillicons.dev/icons?i=apollo" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev" target="_blank">
             <img src="https://skillicons.dev/icons?i=postman" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev" target="_blank">
             <img src="https://skillicons.dev/icons?i=jest" />
         </a>
     </p>
             </td>
         </tr>
     </table>
---
-
+<br>
+<br>
+<p align="center">
+     <b>✨You can see some training projects<br> where I demonstrate my technical skills in different stacks.✨</b>
+</p>
+<br>
 <table align="center">
         <tr>
             <td>
@@ -161,10 +165,54 @@
         </tr>
         <tr>
             <td>
-                    a
+                <ul>
+                   <li><a href="https://github.com/Frontementor-challengues" target="_blank">Webs</a></li>
+                   <li><a href="https://github.com/React-ts-learn" target="_blank">React</a></li>
+                   <li><a href="https://github.com/Next-learn" target="_blank">Next JS</a></li>
+                <ul>
             </td>
                 <td>
-                        b
+                 <ul>
+                         <li><a href="https://github.com/Node-ts-learn">Node</a></li>
+                         <li><a href="https://github.com/Node-ts-learn">Nest JS</a></li>
+                 </ul>
             </td>
         </tr>
     </table>
+                        <br>
+<p align="center">
+       <b>✨🧠✨ Some projects I have participated in <br> and of which I am deeply proud ✨🫀✨</b>
+</p>
+<p align="center">
+        <a>
+                <img src="./projectos/cuartel.png" height="40" width="40" />
+        </a>
+        <a>
+                <img src="./projectos/logopoesia.png" height="40" width="40" />
+        </a>
+         <a>
+                <img src="./projectos/logoagencia.png" height="40" width="40" />
+        </a>
+        <a>
+                <img src="./projectos/logohumanitas.png" height="40" width="40" />
+        </a>
+</p>
+<br>
+<br>
+<p align="center">
+       <b>✨🧠✨ I am always in constant training and practice.<br> These are some of the djos where I train ✨🫀✨</b>
+</p>
+<p align="center">
+        <a>
+                <img src="./dojos/codewars.svg" height="40" width="40" />
+        </a>
+        <a>
+                <img src="./dojos/freecodecamp.svg" height="40" width="40" />
+        </a>
+         <a>
+                <img src="./dojos/frontendmentor.svg" height="40" width="40" />
+        </a>
+        <a>
+                <img src="./dojos/hackthebox.svg" height="40" width="40" />
+        </a>
+</p>
