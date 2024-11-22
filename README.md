@@ -5,7 +5,7 @@
     </p>
 
 <p align="center">
-        #Web developer | #HxC | #Creative dev
+        #WebDeveloper | #HxC | #CreativeDev
     </p>
     <br>
     <p align="center" bold>
