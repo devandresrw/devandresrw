@@ -216,3 +216,28 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
      </a>
 </p>
+
+
+---------------
+<table style="width: 100%;">
+  <tr>
+    <td style="background-color: #f4f4f4; padding: 20px; text-align: center;">
+      <h3>Columna 1, Fila 1</h3>
+      <p>Texto aquí.</p>
+    </td>
+    <td style="background-color: #eaeaea; padding: 20px; text-align: center;">
+      <h3>Columna 2, Fila 1</h3>
+      <p>Texto aquí.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color: #d4d4d4; padding: 20px; text-align: center;">
+      <h3>Columna 1, Fila 2</h3>
+      <p>Texto aquí.</p>
+    </td>
+    <td style="background-color: #ccc; padding: 20px; text-align: center;">
+      <h3>Columna 2, Fila 2</h3>
+      <p>Texto aquí.</p>
+    </td>
+  </tr>
+</table>
