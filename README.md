@@ -51,6 +51,7 @@
         <a href="https://getbootstrap.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=bootstrap" />
         </a>
+        </p>
        <p align="center">
                <a href="https://sass-lang.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=sass"  />
@@ -180,6 +181,42 @@
         </tr>
     </table>
                         <br>
+                        
+<p align="center">
+       <b>In my workflow I use the following tools</b>         
+</p>
+<table align="center">
+        <tr>
+            <td>
+                <p align="center" font-size="30px">
+                   <b> 📚 repositories backend </b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+        <td>
+                    <p align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=ts"  />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="https://skillicons.dev/icons?i=html"  />
+        </a>
+        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+            <img src="https://skillicons.dev/icons?i=css"  />
+        </a>
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </a>
+        </p>
+            </td>
+        </tr>
+    </table>
+
 <p align="center">
        <b>✨🧠✨ Some projects I have participated in <br> and of which I am deeply proud ✨🫀✨</b>
 </p>
