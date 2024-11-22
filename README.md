@@ -183,13 +183,13 @@
                         <br>
                         
 <p align="center">
-       <b>In my workflow I use the following tools</b>         
+       <b>💻🪄In my workflow I use the following tools🪄</b>         
 </p>
 <table align="center">
         <tr>
             <td>
                 <p align="center" font-size="30px">
-                   <b> 📚 tools </b>
+                   <b> 🪄⚙️ tools </b>
                 </p>
             </td>
         </tr>
@@ -246,16 +246,16 @@
 </p>
 <p align="center">
         <a>
-                <img src="./projectos/cuartel.png" height="40" width="40" />
+                <img src="./projectos/cuartel.png"  width="200" />
         </a>
         <a>
-                <img src="./projectos/logopoesia.png" height="40" width="40" />
+                <img src="./projectos/logopoesia.png" width="200" />
         </a>
          <a>
-                <img src="./projectos/logoagencia.png" height="40" width="40" />
+                <img src="./projectos/logoagencia.png" width="200" />
         </a>
         <a>
-                <img src="./projectos/logohumanitas.png" height="40" width="40" />
+                <img src="./projectos/logohumanitas.png" width="200" />
         </a>
 </p>
 <br>
