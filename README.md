@@ -1,4 +1,10 @@
 <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="/logo.svg" width="300" alt="a">
+        </a>
+    </p>
+
+<p align="center">
         #Web developer | #HxC | #Creative dev
     </p>
     <br>
@@ -11,7 +17,7 @@
         my
         learning paths in HxB.
     </p>
-    ----
+
 <table align="center">
         <tr>
             <td>
