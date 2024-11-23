@@ -205,9 +205,6 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://skillicons.dev/icons?i=blender" />
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-            <img src="https://skillicons.dev/icons?i=docker"  />
-        </a>
         <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
             <img src="https://skillicons.dev/icons?i=figma"  />
         </a>
@@ -221,9 +218,6 @@
         <a href="https://getbootstrap.com/" target="_blank">
             <img src="https://skillicons.dev/icons?i=kali" />
         </a>
-        <a href="https://getbootstrap.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=kubernetes" />
-        </a>
         </p>
         <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank">
@@ -235,6 +229,11 @@
         <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
             <img src="https://skillicons.dev/icons?i=neovim"  />
         </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+            <img src="https://skillicons.dev/icons?i=docker"  />
+        </a>
+                            <a href="https://getbootstrap.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=kubernetes" />
         </a>
         </p>
             </td>
