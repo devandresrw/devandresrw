@@ -196,6 +196,9 @@
         <tr>
         <td>
                     <p align="center">
+                            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://skillicons.dev/icons?i=obsidian" />
+        </a>
         <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://skillicons.dev/icons?i=bash"  />
         </a>
@@ -225,9 +228,6 @@
         <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank">
             <img src="https://skillicons.dev/icons?i=linux"  />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://skillicons.dev/icons?i=obsidian" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
             <img src="https://skillicons.dev/icons?i=vscode"  />
