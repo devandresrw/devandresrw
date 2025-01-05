@@ -272,13 +272,14 @@
         <a>
                 <img src="frontendmentor.png" width="180" />
         </a>
+</p>
+<p align="center">
          <a>
                 <img src="hackthebox.png" width="180" />
         </a>
         <a>
                 <img src="codewars.png" width="180" />
         </a>
-    
 </p>
 <p align="center">
        <b>✨🧠✨ Remember to visit my portfolio or any of my other projects ✨🫀✨</b>
