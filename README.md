@@ -267,24 +267,25 @@
 </p>
 <p align="center">
         <a>
-                <img src="./dojos/codewars.svg" height="40" width="40" />
+                <img src="freecodecamp.png"  width="80" />
         </a>
         <a>
-                <img src="./dojos/freecodecamp.svg" height="40" width="40" />
+                <img src="frontendmentor.png" width="80" />
         </a>
          <a>
-                <img src="./dojos/frontendmentor.svg" height="40" width="40" />
+                <img src="hackthebox.png" width="80" />
         </a>
         <a>
-                <img src="./dojos/hackthebox.svg" height="40" width="40" />
+                <img src="codewars.png" width="80" />
         </a>
+    
 </p>
 <p align="center">
        <b>✨🧠✨ Remember to visit my portfolio or any of my other projects ✨🫀✨</b>
 </p>
 <p align="center">
-        <a href="https://programmer.andresrw.com/">
-                <img src="./a-blanca.svg" height="40" width="40">
+        <a href="https://andresrw.com/">
+                <img src="./a-blanca.svg" height="60" width="60">
         </a>
 </p>
 <p align="center">
