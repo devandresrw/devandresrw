@@ -267,16 +267,16 @@
 </p>
 <p align="center">
         <a>
-                <img src="freecodecamp.png"  width="80" />
+                <img src="freecodecamp.png"  width="180" />
         </a>
         <a>
-                <img src="frontendmentor.png" width="80" />
+                <img src="frontendmentor.png" width="180" />
         </a>
          <a>
-                <img src="hackthebox.png" width="80" />
+                <img src="hackthebox.png" width="180" />
         </a>
         <a>
-                <img src="codewars.png" width="80" />
+                <img src="codewars.png" width="180" />
         </a>
     
 </p>
