@@ -245,16 +245,19 @@
 </p>
 <p align="center">
         <a>
-                <img src="./projectos/cuartel.png"  width="200" />
+                <img src="./proyects/1508.png"  width="200" />
         </a>
         <a>
-                <img src="./projectos/logopoesia.png" width="200" />
+                <img src="./proyects/humanitas.png" width="200" />
         </a>
          <a>
-                <img src="./projectos/logoagencia.png" width="200" />
+                <img src="./proyects/cuartelDos.png" width="200" />
         </a>
         <a>
-                <img src="./projectos/logohumanitas.png" width="200" />
+                <img src="./proyects/poesiaycodigo.png" width="200" />
+        </a>
+        <a>
+                <img src="./proyects/andresrwart.png" width="200" />
         </a>
 </p>
 <br>
