@@ -245,7 +245,7 @@
 </p>
 <p align="center">
         <a>
-                <img src="1508.png"  width="100" />
+                <img src="1508.png"  width="80" />
         </a>
         <a>
                 <img src="humanitas.png" width="80" />
@@ -254,10 +254,10 @@
                 <img src="cuartelDos.png" width="80" />
         </a>
         <a>
-                <img src="poesiaycodigo.png" width="200" />
+                <img src="poesiaycodigo.png" width="80" />
         </a>
         <a>
-                <img src="andresrwart.png" width="200" />
+                <img src="andresrwart.png" width="80" />
         </a>
 </p>
 <br>
