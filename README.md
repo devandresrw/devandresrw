@@ -245,7 +245,7 @@
 </p>
 <p align="center">
         <a>
-                <img src="proyects/cuartel.png"  width="200" />
+                <img src="cuartelDos.png"  width="200" />
         </a>
         <a>
                 <img src="./proyects/humanitas.png" width="200" />
