@@ -248,16 +248,16 @@
                 <img src="cuartelDos.png"  width="200" />
         </a>
         <a>
-                <img src="./proyects/humanitas.png" width="200" />
+                <img src="humanitas.png" width="200" />
         </a>
          <a>
-                <img src="./proyects/cuartelDos.png" width="200" />
+                <img src="cuartelDos.png" width="200" />
         </a>
         <a>
-                <img src="./proyects/poesiaycodigo.png" width="200" />
+                <img src="poesiaycodigo.png" width="200" />
         </a>
         <a>
-                <img src="./proyects/andresrwart.png" width="200" />
+                <img src="andresrwart.png" width="200" />
         </a>
 </p>
 <br>
