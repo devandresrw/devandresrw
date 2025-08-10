@@ -1,6 +1,6 @@
 <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="/logo.svg" width="300" alt="a">
+        <a href="https://programmer.andresrw.com/" target='_blank'>
+            <img src="/logo.svg" width="300" alt="andresrw logo">
         </a>
     </p>
 
