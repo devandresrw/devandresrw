@@ -241,19 +241,19 @@
 </p>
 <p align="center">
         <a>
-                <img src="./img/1508.png"  width="180" />
+                <img src="./img/1508.png"  width="120" />
         </a>
         <a>
-                <img src="./img/humanitas.png" width="180" />
+                <img src="./img/humanitas.png" width="120" />
         </a>
          <a>
-                <img src="./img/cuarteldos.png" width="180" />
+                <img src="./img/cuarteldos.png" width="120" />
         </a>
         <a>
-                <img src="./img/poesiaycodigo.png" width="180" />
+                <img src="./img/poesiaycodigo.png" width="120" />
         </a>
         <a>
-                <img src="./img/andresrwart.png" width="80" />
+                <img src="./img/andresrwart.png" width="120" />
         </a>
 </p>
 <br>
@@ -263,18 +263,18 @@
 </p>
 <p align="center">
         <a>
-                <img src="freecodecamp.png"  width="180" />
+                <img src="./img/freecodecamp.png"  width="120" />
         </a>
         <a>
-                <img src="frontendmentor.png" width="180" />
+                <img src="./img/frontendmentor.png" width="120" />
         </a>
 </p>
 <p align="center">
          <a>
-                <img src="hackthebox.png" width="180" />
+                <img src="./img/hackthebox.png" width="180" />
         </a>
         <a>
-                <img src="codewars.png" width="180" />
+                <img src="./img/codewars.png" width="180" />
         </a>
 </p>
 <p align="center">
