@@ -241,19 +241,19 @@
 </p>
 <p align="center">
         <a>
-                <img src="./img/1508.png"  width="80" />
+                <img src="./img/1508.png"  width="180" />
         </a>
         <a>
-                <img src="./img/humanitas.png" width="80" />
+                <img src="./img/humanitas.png" width="180" />
         </a>
          <a>
-                <img src="./img/cuarteldos.png" width="80" />
+                <img src="./img/cuarteldos.png" width="180" />
         </a>
         <a>
-                <img src="./img/poesiaycodigo.png" width="80" />
+                <img src="./img/poesiaycodigo.png" width="180" />
         </a>
         <a>
-                <img src="andresrwart.png" width="80" />
+                <img src="./img/andresrwart.png" width="80" />
         </a>
 </p>
 <br>
