@@ -264,16 +264,16 @@
 
 <p align="center">
         <a>
-                <img src="./img/freecodecamp.png"  width="180" />
+                <img src="./img/freecodecamp.png"  width="140" />
         </a>
         <a>
-                <img src="./img/frontendmentor.png" width="180" />
+                <img src="./img/frontendmentor.png" width="140" />
         </a>
          <a>
-                <img src="./img/hackthebox.png" width="180" />
+                <img src="./img/hackthebox.png" width="140" />
         </a>
         <a>
-                <img src="./img/codewars.png" width="180" />
+                <img src="./img/codewars.png" width="140" />
         </a>
 </p>
 
