@@ -261,6 +261,7 @@
 <p align="center">
        <b>✨🧠✨ I am always in constant training and practice.<br> These are some of the djos where I train ✨🫀✨</b>
 </p>
+
 <p align="center">
         <a>
                 <img src="./img/freecodecamp.png"  width="180" />
@@ -268,7 +269,6 @@
         <a>
                 <img src="./img/frontendmentor.png" width="180" />
         </a>
-
          <a>
                 <img src="./img/hackthebox.png" width="180" />
         </a>
@@ -276,12 +276,14 @@
                 <img src="./img/codewars.png" width="180" />
         </a>
 </p>
+
+<br>
 <p align="center">
        <b>✨🧠✨ Remember to visit my portfolio or any of my other projects ✨🫀✨</b>
 </p>
 <p align="center">
         <a href="https://andresrw.com/">
-                <img src="./a-blanca.svg" height="60" width="60">
+                <img src="./img/" height="60" width="60">
         </a>
 </p>
 <p align="center">
