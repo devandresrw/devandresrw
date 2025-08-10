@@ -2,20 +2,14 @@
         <a href="https://programmer.andresrw.com/" target='_blank'>
             <img src="/logo.svg" width="300" alt="andresrw logo">
         </a>
-    </p>
+</p>
 
 <p align="center">
         #WebDeveloper | #HxC | #CreativeDev
     </p>
     <br>
     <p align="center" bold>
-        I am a developer, I plan, develop and bring to production applications focused on the web, a taste for ✨creative
-        development🎨 and new technologies. He worked in different areas of the markets, from advertising agencies,
-        non-profit organizations, crypto and artistic projects. I have an interest in augmented reality and virtual
-        reality,
-        currently I am seeking to get certified in the technologies that I master, step by step one by one and complete
-        my
-        learning paths in HxB.
+    I am a developer, I plan, develop and bring to production applications focused on the web, a taste for ✨creative development🎨 and new technologies. He worked in different areas of the markets,from advertising agencies, non-profit organizations, crypto and artistic projects. I have an interest in augmented reality and virtual reality, currently I am seeking to get certified in the technologies that I master, step by step one by one and complete my learning paths in HxB.
     </p>
 <br>
 <br>
@@ -151,6 +145,7 @@
      <b>✨You can see some training projects<br> where I demonstrate my technical skills in different stacks.✨</b>
 </p>
 <br>
+<br>
 <table align="center">
         <tr>
             <td>
@@ -185,6 +180,7 @@
 <p align="center">
        <b>💻🪄In my workflow I use the following tools🪄</b>         
 </p>
+<br>
 <table align="center">
         <tr>
             <td>
@@ -245,16 +241,16 @@
 </p>
 <p align="center">
         <a>
-                <img src="1508.png"  width="80" />
+                <img src="./img/1508.png"  width="80" />
         </a>
         <a>
-                <img src="humanitas.png" width="80" />
+                <img src="./img/humanitas.png" width="80" />
         </a>
          <a>
-                <img src="cuartelDos.png" width="80" />
+                <img src="./img/cuarteldos.png" width="80" />
         </a>
         <a>
-                <img src="poesiaycodigo.png" width="80" />
+                <img src="./img/poesiaycodigo.png" width="80" />
         </a>
         <a>
                 <img src="andresrwart.png" width="80" />
