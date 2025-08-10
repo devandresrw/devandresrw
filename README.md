@@ -1,6 +1,6 @@
 <p align="center">
         <a href="https://programmer.andresrw.com/" target='_blank'>
-            <img src="/logo.svg" width="300" alt="andresrw logo">
+            <img src="./img/andresrw.png" width="300" alt="andresrw logo">
         </a>
 </p>
 
@@ -263,13 +263,12 @@
 </p>
 <p align="center">
         <a>
-                <img src="./img/freecodecamp.png"  width="120" />
+                <img src="./img/freecodecamp.png"  width="180" />
         </a>
         <a>
-                <img src="./img/frontendmentor.png" width="120" />
+                <img src="./img/frontendmentor.png" width="180" />
         </a>
-</p>
-<p align="center">
+
          <a>
                 <img src="./img/hackthebox.png" width="180" />
         </a>
