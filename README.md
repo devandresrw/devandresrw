@@ -240,19 +240,19 @@
        <b>✨🧠✨ Some projects I have participated in <br> and of which I am deeply proud ✨🫀✨</b>
 </p>
 <p align="center">
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/1508.png"  width="120" />
         </a>
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/humanitas.png" width="120" />
         </a>
-         <a>
+         <a href="" target="_blank">
                 <img src="./img/cuarteldos.png" width="120" />
         </a>
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/poesiaycodigo.png" width="120" />
         </a>
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/andresrwart.png" width="120" />
         </a>
 </p>
@@ -263,16 +263,16 @@
 </p>
 
 <p align="center">
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/freecodecamp.png"  width="140" />
         </a>
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/frontendmentor.png" width="140" />
         </a>
-         <a>
+         <a href="" target="_blank">
                 <img src="./img/hackthebox.png" width="140" />
         </a>
-        <a>
+        <a href="" target="_blank">
                 <img src="./img/codewars.png" width="140" />
         </a>
 </p>
