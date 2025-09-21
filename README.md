@@ -263,7 +263,7 @@
 </p>
 
 <p align="center">
-        <a href="" target="_blank">
+        <a href="https://www.freecodecamp.org/andresrw" target="_blank">
                 <img src="./img/freecodecamp.png"  width="160" />
         </a>
         <a href="" target="_blank">
@@ -272,7 +272,7 @@
          <a href="" target="_blank">
                 <img src="./img/hackthebox.png" width="160" />
         </a>
-        <a href="" target="_blank">
+        <a href="https://www.codewars.com/users/devandresrw" target="_blank">
                 <img src="./img/codewars.png" width="160" />
         </a>
 </p>
