@@ -264,16 +264,16 @@
 
 <p align="center">
         <a href="" target="_blank">
-                <img src="./img/freecodecamp.png"  width="140" />
+                <img src="./img/freecodecamp.png"  width="160" />
         </a>
         <a href="" target="_blank">
-                <img src="./img/frontendmentor.png" width="140" />
+                <img src="./img/frontendmentor.png" width="160" />
         </a>
          <a href="" target="_blank">
-                <img src="./img/hackthebox.png" width="140" />
+                <img src="./img/hackthebox.png" width="160" />
         </a>
         <a href="" target="_blank">
-                <img src="./img/codewars.png" width="140" />
+                <img src="./img/codewars.png" width="160" />
         </a>
 </p>
 
