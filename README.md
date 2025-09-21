@@ -240,19 +240,19 @@
        <b>✨🧠✨ Some projects I have participated in <br> and of which I am deeply proud ✨🫀✨</b>
 </p>
 <p align="center">
-        <a href="" target="_blank">
+        <a href="https://1508.agency/" target="_blank">
                 <img src="./img/1508.png"  width="150" />
         </a>
-        <a href="" target="_blank">
+        <a href="https://humanitasmuseum.art/" target="_blank">
                 <img src="./img/humanitas.png" width="150" />
         </a>
-         <a href="" target="_blank">
+         <a href="https://cuarteldos.art/" target="_blank">
                 <img src="./img/cuarteldos.png" width="150" />
         </a>
-        <a href="" target="_blank">
+        <a href="http://poesiaycodigo.art/" target="_blank">
                 <img src="./img/poesiaycodigo.png" width="150" />
         </a>
-        <a href="" target="_blank">
+        <a href="http://andresrw.art/" target="_blank">
                 <img src="./img/andresrwart.png" width="150" />
         </a>
 </p>
@@ -283,7 +283,7 @@
 </p>
 <p align="center">
         <a href="https://andresrw.com/">
-                <img src="./img/" height="60" width="60">
+                <img src="./img/a.png" height="60" width="60">
         </a>
 </p>
 <p align="center">
