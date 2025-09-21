@@ -1,6 +1,6 @@
 <p align="center">
         <a href="https://programmer.andresrw.com/" target='_blank'>
-            <img src="./img/andresrw.png" width="300" alt="andresrw logo">
+            <img src="./img/andresrw.png" width="500" alt="andresrw logo">
         </a>
 </p>
 
@@ -241,19 +241,19 @@
 </p>
 <p align="center">
         <a href="" target="_blank">
-                <img src="./img/1508.png"  width="120" />
+                <img src="./img/1508.png"  width="150" />
         </a>
         <a href="" target="_blank">
-                <img src="./img/humanitas.png" width="120" />
+                <img src="./img/humanitas.png" width="150" />
         </a>
          <a href="" target="_blank">
-                <img src="./img/cuarteldos.png" width="120" />
+                <img src="./img/cuarteldos.png" width="150" />
         </a>
         <a href="" target="_blank">
-                <img src="./img/poesiaycodigo.png" width="120" />
+                <img src="./img/poesiaycodigo.png" width="150" />
         </a>
         <a href="" target="_blank">
-                <img src="./img/andresrwart.png" width="120" />
+                <img src="./img/andresrwart.png" width="150" />
         </a>
 </p>
 <br>
